@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "04641fecb1ab7bc8e917",
-    "url": "/quantaspessoasdaianechamoupracubos/static/css/main.3e438468.chunk.css"
+    "revision": "1dff9640e68b2bf7c49a",
+    "url": "/quantaspessoasdaianechamoupracubos/static/css/main.f09d9e7e.chunk.css"
   },
   {
-    "revision": "04641fecb1ab7bc8e917",
+    "revision": "1dff9640e68b2bf7c49a",
     "url": "/quantaspessoasdaianechamoupracubos/static/js/main.5914b846.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/quantaspessoasdaianechamoupracubos/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "02f333486fa5859420f790c786348840",
+    "revision": "9a515291504b9dabf4bc9ef9e978a8ba",
     "url": "/quantaspessoasdaianechamoupracubos/index.html"
   }
 ];
