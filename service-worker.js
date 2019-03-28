@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/quantaspessoasdaianechamoupracubos/precache-manifest.06e80673b4d8eb254f05c0a7d4fae6c4.js"
+  "/quantaspessoasdaianechamoupracubos/precache-manifest.77c7c23a4b7f49550c57af381c579b72.js"
 );
 
 workbox.clientsClaim();
